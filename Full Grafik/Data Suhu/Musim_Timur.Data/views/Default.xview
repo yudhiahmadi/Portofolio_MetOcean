@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<View collection="Musim_Timur" xview="0.23">
+<GeographicMap>
+<MapDomain lon_min="103.82236" lat_min="-3.74583" lon_max="107.34433" lat_max="-1.25416"/>
+</GeographicMap>
+<MapWindow>
+<Symbol color="1" small_size="0.333333" type="0" size="-0.1"/>
+<Window>
+<Geometry y_offset_bb="7" x_length_bb="7" y_top="-1.25416" x_left="103.822" x_right="107.344" x_projection="100" y_length_bb="7" x_offset_bb="1" y_bottom="-3.74583" y_projection="100"/>
+</Window>
+</MapWindow>
+<DataWindow>
+<Axis auto_label="T" axis_color="0" draw_grid="F"/>
+<AxisVariables>
+<!--Longitude-->
+<xAxis var_id="0" is_reversed="F" var_list="2"/>
+<!--Latitude-->
+<yAxis var_id="1" is_reversed="F" var_list="2"/>
+<!--thetao @ season=first-->
+<zAxis var_id="4" is_reversed="F" var_list="2"/>
+</AxisVariables>
+<Modes plot_mode="7" window_type="0" window_mode="3"/>
+<Contours draw="T">
+<Contour font_size="8" z_value="27"/>
+<Contour font_size="8" z_value="27.1"/>
+<Contour font_size="8" z_value="27.2"/>
+<Contour font_size="8" z_value="27.3"/>
+<Contour font_size="8" z_value="27.4"/>
+<Contour font_size="8" z_value="27.5"/>
+<Contour font_size="8" z_value="27.6"/>
+<Contour font_size="8" z_value="27.7"/>
+<Contour font_size="8" z_value="27.8"/>
+<Contour font_size="8" z_value="27.9"/>
+<Contour font_size="8" z_value="28"/>
+<Contour font_size="8" z_value="28.1"/>
+<Contour font_size="8" z_value="28.2"/>
+<Contour font_size="8" z_value="28.3"/>
+<Contour font_size="8" z_value="28.4"/>
+<Contour font_size="8" z_value="28.5"/>
+<Contour font_size="8" z_value="28.6"/>
+<Contour font_size="8" z_value="28.7"/>
+<Contour font_size="8" z_value="28.8"/>
+<Contour font_size="8" z_value="28.9"/>
+<Contour font_size="8" z_value="29"/>
+<Contour font_size="8" z_value="29.1"/>
+<Contour font_size="8" z_value="29.2"/>
+<Contour font_size="8" z_value="29.3"/>
+<Contour font_size="8" z_value="29.4"/>
+<Contour font_size="8" z_value="29.5"/>
+<Contour font_size="8" z_value="29.6"/>
+<Contour font_size="8" z_value="29.7"/>
+<Contour font_size="8" z_value="29.8"/>
+<Contour font_size="8" z_value="29.9"/>
+<Contour font_size="8" z_value="30"/>
+<Contour font_size="8" z_value="30.1"/>
+<Contour font_size="8" z_value="30.2"/>
+<Contour font_size="8" z_value="30.3"/>
+<Contour font_size="8" z_value="30.4"/>
+<Contour font_size="8" z_value="30.5"/>
+<Contour font_size="8" z_value="30.6"/>
+<Contour font_size="8" z_value="30.7"/>
+<Contour font_size="8" z_value="30.8"/>
+<Contour font_size="8" z_value="30.9"/>
+<Contour font_size="8" z_value="31"/>
+<Contour font_size="8" z_value="31.1"/>
+<Contour font_size="8" z_value="31.2"/>
+<Contour font_size="8" z_value="31.3"/>
+<Contour font_size="8" z_value="31.4"/>
+<Contour font_size="8" z_value="31.5"/>
+<Contour font_size="8" z_value="31.6"/>
+<Contour font_size="8" z_value="31.7"/>
+<Contour font_size="8" z_value="31.8"/>
+<Contour font_size="8" z_value="31.9"/>
+<Contour font_size="8" z_value="32"/>
+<Contour font_size="8" z_value="32.1"/>
+<Contour font_size="8" z_value="32.2"/>
+<Contour font_size="8" z_value="32.3"/>
+<Contour font_size="8" z_value="32.4"/>
+<Contour font_size="8" z_value="32.5"/>
+<Contour font_size="8" z_value="32.6"/>
+<Contour font_size="8" z_value="32.7"/>
+<Contour font_size="8" z_value="32.8"/>
+<Contour font_size="8" z_value="32.9"/>
+<Contour font_size="8" z_value="33"/>
+</Contours>
+<Gridding auto_scale_lengths="F" x_scale_length="10" y_scale_length="10" draw_shaded="T"/>
+<BadEstimateHiding max_distance="3" hide="T"/>
+<DataMark color="17" size="0.2"/>
+<Window>
+<Geometry y_offset_bb="2" x_length_bb="15.5" y_top="-1.25416" x_left="103.822" x_right="107.344" x_projection="100" y_length_bb="17" x_offset_bb="11" y_bottom="-3.74583" y_projection="100"/>
+<ColorScale z_range_start="27" z_range_end="33"/>
+<GraphicsObjects>
+<GObject is_automatic="T" post_data="T" dragging="F" own_coordinates="F" clipping="F" type="1">
+<Annotation frame_color="-1" font_size="14.376" angle="0" text="thetao @ season=first" x_coordinate="26.5" frame_type="0" text_alignment="4" background_color="-1" text_color="0" y_coordinate="16.1881" frame_width="-1"/>
+</GObject>
+</GraphicsObjects>
+</Window>
+</DataWindow>
+<IsoSurfaceVariables>
+<!--thetao @ season=first-->
+<IsoVariable var_id="1" surface_value="first" surface_var_id="0"/>
+</IsoSurfaceVariables>
+</View>

@@ -1,0 +1,16 @@
+	-----File Import Start
+	
+	>>Collection:	F:/Semester 10/PKKPRL/Suhu/Musim_Timur
+	
+	Variables:
+		1: season	
+		2: thetao	
+	
+	ADD file: F:/Semester 10/PKKPRL/Suhu/Musim_Timur.csv
+	347 station(s) processed successfully; 0 station(s) failed.
+	
+	
+	-----File Import End
+	
+	
+	IMPORT FILE SUMMARY: Total=1	Used=1	Errors=0	Warnings=0
