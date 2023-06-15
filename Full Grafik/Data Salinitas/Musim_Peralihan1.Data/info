@@ -1,0 +1,16 @@
+	-----File Import Start
+	
+	>>Collection:	F:/Semester 10/PKKPRL/Data Salinitas/Musim_Peralihan1
+	
+	Variables:
+		1: season	
+		2: so	
+	
+	ADD file: F:/Semester 10/PKKPRL/Data Salinitas/Musim_Peralihan1.csv
+	347 station(s) processed successfully; 0 station(s) failed.
+	
+	
+	-----File Import End
+	
+	
+	IMPORT FILE SUMMARY: Total=1	Used=1	Errors=0	Warnings=0

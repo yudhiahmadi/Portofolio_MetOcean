@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<View xview="0.23" collection="Musim_Peralihan1">
+<GeographicMap>
+<MapDomain lat_max="-1.25416" lon_min="103.82236" lat_min="-3.74583" lon_max="107.34433"/>
+</GeographicMap>
+<MapWindow>
+<Symbol color="1" type="0" small_size="0.333333" size="-0.1"/>
+<Window>
+<Geometry y_length_bb="7" x_left="103.822" x_offset_bb="1" x_length_bb="7" y_offset_bb="7" x_right="107.344" y_top="-1.25416" x_projection="100" y_bottom="-3.74583" y_projection="100"/>
+</Window>
+</MapWindow>
+<DataWindow>
+<Axis draw_grid="F" auto_label="T" axis_color="0"/>
+<AxisVariables>
+<!--Longitude-->
+<xAxis var_id="0" var_list="2" is_reversed="F"/>
+<!--Latitude-->
+<yAxis var_id="1" var_list="2" is_reversed="F"/>
+<!--so @ season=first-->
+<zAxis var_id="4" var_list="2" is_reversed="F"/>
+</AxisVariables>
+<Modes window_type="0" window_mode="3" plot_mode="7"/>
+<Contours draw="T">
+<Contour z_value="30" font_size="8"/>
+<Contour z_value="30.1" font_size="8"/>
+<Contour z_value="30.2" font_size="8"/>
+<Contour z_value="30.3" font_size="8"/>
+<Contour z_value="30.4" font_size="8"/>
+<Contour z_value="30.5" font_size="8"/>
+<Contour z_value="30.6" font_size="8"/>
+<Contour z_value="30.7" font_size="8"/>
+<Contour z_value="30.8" font_size="8"/>
+<Contour z_value="30.9" font_size="8"/>
+<Contour z_value="31" font_size="8"/>
+<Contour z_value="31.1" font_size="8"/>
+<Contour z_value="31.2" font_size="8"/>
+<Contour z_value="31.3" font_size="8"/>
+<Contour z_value="31.4" font_size="8"/>
+<Contour z_value="31.5" font_size="8"/>
+<Contour z_value="31.6" font_size="8"/>
+<Contour z_value="31.7" font_size="8"/>
+<Contour z_value="31.8" font_size="8"/>
+<Contour z_value="31.9" font_size="8"/>
+<Contour z_value="32" font_size="8"/>
+<Contour z_value="32.1" font_size="8"/>
+<Contour z_value="32.2" font_size="8"/>
+<Contour z_value="32.3" font_size="8"/>
+<Contour z_value="32.4" font_size="8"/>
+<Contour z_value="32.5" font_size="8"/>
+<Contour z_value="32.6" font_size="8"/>
+<Contour z_value="32.7" font_size="8"/>
+<Contour z_value="32.8" font_size="8"/>
+<Contour z_value="32.9" font_size="8"/>
+<Contour z_value="33" font_size="8"/>
+<Contour z_value="33.1" font_size="8"/>
+<Contour z_value="33.2" font_size="8"/>
+<Contour z_value="33.3" font_size="8"/>
+<Contour z_value="33.4" font_size="8"/>
+<Contour z_value="33.5" font_size="8"/>
+<Contour z_value="33.6" font_size="8"/>
+<Contour z_value="33.7" font_size="8"/>
+<Contour z_value="33.8" font_size="8"/>
+<Contour z_value="33.9" font_size="8"/>
+<Contour z_value="34" font_size="8"/>
+<Contour z_value="34.1" font_size="8"/>
+<Contour z_value="34.2" font_size="8"/>
+<Contour z_value="34.3" font_size="8"/>
+<Contour z_value="34.4" font_size="8"/>
+<Contour z_value="34.5" font_size="8"/>
+<Contour z_value="34.6" font_size="8"/>
+<Contour z_value="34.7" font_size="8"/>
+<Contour z_value="34.8" font_size="8"/>
+<Contour z_value="34.9" font_size="8"/>
+<Contour z_value="35" font_size="8"/>
+</Contours>
+<Gridding x_scale_length="10" auto_scale_lengths="F" y_scale_length="10" draw_shaded="T"/>
+<BadEstimateHiding max_distance="3" hide="T"/>
+<DataMark color="17" size="0.2"/>
+<Window>
+<Geometry y_length_bb="17" x_left="103.822" x_offset_bb="11" x_length_bb="15.5" y_offset_bb="2" x_right="107.344" y_top="-1.25416" x_projection="100" y_bottom="-3.74583" y_projection="100"/>
+<ColorScale z_range_end="35" z_range_start="28"/>
+<GraphicsObjects>
+<GObject post_data="T" is_automatic="T" clipping="F" type="1" own_coordinates="F" dragging="F">
+<Annotation text_alignment="4" angle="0" x_coordinate="26.5" y_coordinate="16.1881" frame_color="-1" frame_width="-1" text_color="0" frame_type="0" font_size="14.376" text="so @ season=first" background_color="-1"/>
+</GObject>
+</GraphicsObjects>
+</Window>
+</DataWindow>
+<IsoSurfaceVariables>
+<!--so @ season=first-->
+<IsoVariable surface_value="first" var_id="1" surface_var_id="0"/>
+</IsoSurfaceVariables>
+</View>
