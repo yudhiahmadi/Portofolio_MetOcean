@@ -1,0 +1,108 @@
+                                                            20230613
+                                                            201347
+
+
+======================================================================
+Target: TidePredictor
+
+
+
+======================= Computing Environment ========================
+  Computer name       : MYBOOK
+  Number of processors: 4
+======================================================================
+    Prepack_file_name : C:\Program Files (x86)\DHI\2014\MIKE Zero\Application Data\Tide Constituents\prepack.dat
+    Constituent_file_format : 1 (default)
+    constituent_file_name : C:\Program Files (x86)\DHI\2014\MIKE Zero\Application Data\Tide Constituents\global_tide_constituents_0.25deg.dfs2
+--------------------------- Data File Summary ---------------------------
+  Creator: Grid editor
+  File   : C:\Program Files (x86)\DHI\2014\MIKE Zero\Application Data\Tide Constituents\global_tide_constituents_0.25deg.dfs2
+  Title  : KMS-tide-0.25 September 2006
+
+  Start date  Start time  Sets   Interval  Unit
+  2002-01-01    00:00:00     1       3600  second
+
+  Axis  Sets   Interval  Axis origin  Unit
+     1  1441       0.25            0   meter
+     2   721       0.25            0   meter
+
+  Dynamic items:
+  Item name            Item type               Minimum    Maximum Unit
+  M2amp                Undefined                     0   4.067718 undefined
+  M2pha                Undefined                     0 359.991364 undefined
+  S2amp                Undefined                     0   1.716386 undefined
+  S2pha                Undefined                     0 359.987061 undefined
+  K1amp                Undefined                     0   3.159223 undefined
+  K1pha                Undefined                     0 359.989838 undefined
+  O1amp                Undefined                     0   2.174957 undefined
+  O1pha                Undefined                     0  359.97699 undefined
+  N2amp                Undefined                     0   0.962528 undefined
+  N2pha                Undefined                     0 359.992798 undefined
+  P1amp                Undefined                     0   0.966387 undefined
+  P1pha                Undefined                     0 359.951843 undefined
+  K2amp                Undefined                     0    0.49111 undefined
+  K2pha                Undefined                     0 359.976624 undefined
+  Q1amp                Undefined                     0   0.300132 undefined
+  Q1pha                Undefined                     0  359.93399 undefined
+----------------------------------------------------------------------
+    origin_x : 0 (default)
+    origin_y : 0 (default)
+    Type_of_constituents : 0 (default)
+    start_date : 2022 10 1 
+    end_date : 2022 10 31 
+    timestep : 1
+    number_of_files : 1
+
+
+  Section: FILE_1 ----------------------------------------------------
+      format : 0
+      file_name : F:\Semester 10\PKKPRL\Data Pasut\Pasut IUP 1553.dfs0
+      description : Predicted tide level
+      number_of_points : 1
+
+
+    Section: POINT_1 -------------------------------------------------
+        description : IUP 1553
+        x : 105.249734
+        y : -2.083384
+Equally spaced predictions
+ Time interval:   1.000000         Latitude:  -5.000000    
+ Start:         122           9          30
+ Stop :         122          10          31
+ Number of elevations:         768
+ 
+ Number of constituents used:           8
+ Name , Amplitude and Phase lag of constituents:
+    1 M2    0.1790 304.76
+    2 S2    0.0607 317.17
+    3 K1    0.7960  44.66
+    4 O1    0.5952 339.69
+    5 N2    0.0176 259.82
+    6 P1    0.2674  37.88
+    7 K2    0.0171   3.75
+    8 Q1    0.0937 304.32
+ Pos:   105.2497      -5.000000      Index:        1141         352
+--------------------------- Data File Summary ---------------------------
+  Creator: 
+  File   : F:\Semester 10\PKKPRL\Data Pasut\Pasut IUP 1553.dfs0
+  Title  : Predicted tide level
+
+  Start date  Start time  Sets   Interval  Unit
+  2022-10-01    00:00:00   745       3600  second
+
+  Dynamic items:
+  Item name            Item type               Minimum    Maximum Unit
+  IUP 1553             Water Level           -1.569562   1.579278 meter
+----------------------------------------------------------------------
+
+
+============================ Memory Usage ============================
+  Peak memory usage (MB)                                       84.46
+======================================================================
+
+
+============================ Performance =============================
+  Number of threads: 0
+======================================================================
+ 
+  Normal run completion
